@@ -27,7 +27,7 @@ status-website:
       href: https://github.com/$OWNER
     - title: Blog
       href: https://ogaspard.com
-  theme: ocean
+  theme: night
 
 i18n:
   footer: Powered by [Owen Gaspard](https://github.com/owengaspard)
