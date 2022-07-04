@@ -18,7 +18,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/owengaspard/owengaspard/blob/main/logo.png?raw=true
   name: Gaspard Services Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Gaspard Services Uptime**"
   introMessage: This is an uptime tracker for any public services provided by [Owen Gaspard](https://github.com/owengaspard).
   navbar:
     - title: Gaspard Services Uptime
@@ -26,3 +26,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
+
+i18n:
+  footer: Powered by [Owen Gaspard](https://github.com/owengaspard)
