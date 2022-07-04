@@ -21,10 +21,12 @@ status-website:
   introTitle: "**Gaspard Services Uptime**"
   introMessage: This is an uptime tracker for any public services provided by [Owen Gaspard](https://github.com/owengaspard).
   navbar:
-    - title: Gaspard Services Uptime
+    - title: Uptime
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Blog
+      href: https://ogaspard.com
   theme: night
 
 i18n:
