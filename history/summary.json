@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 145,
-    "timeWeek": 164,
-    "timeMonth": 175,
-    "timeYear": 175,
+    "time": 176,
+    "timeDay": 189,
+    "timeWeek": 171,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/notgoogle.win",
     "slug": "not-google-search",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.48%",
+    "uptimeDay": "72.67%",
+    "uptimeWeek": "96.10%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
     "time": 280,
-    "timeDay": 227,
-    "timeWeek": 345,
+    "timeDay": 0,
+    "timeWeek": 357,
     "timeMonth": 280,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-15": 6,
+      "2022-07-14": 387
     }
   }
 ]
